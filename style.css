@@ -1,0 +1,8 @@
+#chat{
+    width: 60vh;
+    height: 80vh;
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-overflow: hidden;
+}
